@@ -1,0 +1,15 @@
+{
+  "name": "03-stu-character-gallery",
+  "version": "1.0.0",
+  "description": "In this activity, you will reinforce and build upon the testing and React skills that you have learned so far by designing and developing React components based on the prewritten tests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "create-vite": "^5.1.0"
+  }
+}
